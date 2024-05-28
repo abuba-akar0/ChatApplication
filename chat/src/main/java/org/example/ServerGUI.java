@@ -15,6 +15,13 @@ public class ServerGUI extends JFrame {
         setTitle("Chat Server");
         setBackground(Color.darkGray);
 
+        // Create a label for the credits
+        JLabel creditsLabel = new JLabel("Developed by Abubakar, Fahad and Bakhtawar.");
+        creditsLabel.setForeground(Color.gray);
+
+        // Add the credits label to the frame
+        add(creditsLabel, BorderLayout.NORTH);
+
         serverTextArea = new JTextArea();
         serverTextArea.setMargin(new Insets(10, 10, 10, 10));
         JScrollPane serverScrollPane = new JScrollPane(serverTextArea);
