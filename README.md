@@ -14,10 +14,6 @@
      > java.net.Socket;
 
 
-- 🌱 We're currently learning **Java , C++ , HTML , CSS , Javascript**
-
-- ⚡ Fun fact **We think we can do it.**
-
 <p align="left">
 </p>
 
