@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, we're Abubakar, Fahad , Bakhtawar.</h1>
-<h3 align="center">A passionate Software Developers.</h3>
+<h1 align="center">We're Abubakar, Fahad , Bakhtawar.</h1>
+<h2 align="center">Currently we do a Collab on this project.</h2>
+<h3 align="center">We're Passionate Software Developers.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abuba-akar0&label=Profile%20views&color=0e75b6&style=flat" alt="abuba-akar0" /> </p>
 
