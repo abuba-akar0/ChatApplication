@@ -4,7 +4,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abuba-akar0&label=Profile%20views&color=0e75b6&style=flat" alt="abuba-akar0" /> </p>
 
 - 🔭 We're currently working on [Chat Application](https://github.com/abuba-akar0/ChatApplication)
--    this Application is a simple GUI Chat Application that can use to connect client to a server and and also on a local host IP.
+- >  this Application is a simple GUI Chat Application that can use to connect client to a server and and also on a local host IP.
+  >  we are using the following Libraries:
+     > javax.swing.*;
+     > java.awt.*;
+     > java.awt.event.ActionEvent
+     > java.awt.event.ActionListener
+     > java.io.*;
+     > java.net.Socket;
+
 
 - 🌱 We're currently learning **Java , C++ , HTML , CSS , Javascript**
 
