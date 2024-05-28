@@ -1,4 +1,4 @@
-<h1 align="center">We're Abubakar, Fahad , Bakhtawar.</h1>
+<h1 align="center">We're Abubakar, Fahad and Bakhtawar.</h1>
 <h2 align="center">Currently we do a Collab on this project.</h2>
 <h3 align="center">We're Passionate Software Developers.</h3>
 
