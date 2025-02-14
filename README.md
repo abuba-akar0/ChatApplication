@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abuba-akar0&label=Profile%20views&color=0e75b6&style=flat" alt="abuba-akar0" /> </p>
 
-- 🔭 We're currently working on [Chat Application](https://github.com/abuba-akar0/ChatApplication)
+- 🔭 I'm currently working on [Chat Application](https://github.com/abuba-akar0/ChatApplication)
 - >  This Application is a simple GUI Chat Application that can be use to connect client to a server and and also on a local host IP.
 - >  This Aplication is use to send Messages from Client to Server or Server to Client.
 - >  we are using the following Libraries:
