@@ -1,7 +1,6 @@
-<h1 align="center">    Project Submitted By</h1>
-<h1 align="center">Abubakar, Fahad and Bakhtawar.</h1>
-<h2 align="center">Currently we do a Collab on this project.</h2>
-<h3 align="center">We're Passionate Software Developers.</h3>
+<h1 align="center">Chat Application</h1>
+<h1 align="center">Abubakar</h1>
+<h3 align="center">I'm Passionate Software Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abuba-akar0&label=Profile%20views&color=0e75b6&style=flat" alt="abuba-akar0" /> </p>
 
